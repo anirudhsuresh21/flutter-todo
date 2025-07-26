@@ -1,0 +1,1 @@
+// Core layer: shared utilities, constants, and helpers will go here. 
